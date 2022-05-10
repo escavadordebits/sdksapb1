@@ -1,0 +1,17 @@
+C:\Users\paulo.moraes\source\repos\cancelaareceb\cancelaareceb\bin\x64\Release\netcoreapp3.1\cancelaareceb.exe
+C:\Users\paulo.moraes\source\repos\cancelaareceb\cancelaareceb\bin\x64\Release\netcoreapp3.1\cancelaareceb.deps.json
+C:\Users\paulo.moraes\source\repos\cancelaareceb\cancelaareceb\bin\x64\Release\netcoreapp3.1\cancelaareceb.runtimeconfig.json
+C:\Users\paulo.moraes\source\repos\cancelaareceb\cancelaareceb\bin\x64\Release\netcoreapp3.1\cancelaareceb.runtimeconfig.dev.json
+C:\Users\paulo.moraes\source\repos\cancelaareceb\cancelaareceb\bin\x64\Release\netcoreapp3.1\cancelaareceb.dll
+C:\Users\paulo.moraes\source\repos\cancelaareceb\cancelaareceb\bin\x64\Release\netcoreapp3.1\cancelaareceb.pdb
+C:\Users\paulo.moraes\source\repos\cancelaareceb\cancelaareceb\bin\x64\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\paulo.moraes\source\repos\cancelaareceb\cancelaareceb\obj\x64\Release\netcoreapp3.1\cancelaareceb.Form1.resources
+C:\Users\paulo.moraes\source\repos\cancelaareceb\cancelaareceb\obj\x64\Release\netcoreapp3.1\cancelaareceb.csproj.GenerateResource.cache
+C:\Users\paulo.moraes\source\repos\cancelaareceb\cancelaareceb\obj\x64\Release\netcoreapp3.1\cancelaareceb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo.moraes\source\repos\cancelaareceb\cancelaareceb\obj\x64\Release\netcoreapp3.1\cancelaareceb.AssemblyInfoInputs.cache
+C:\Users\paulo.moraes\source\repos\cancelaareceb\cancelaareceb\obj\x64\Release\netcoreapp3.1\cancelaareceb.AssemblyInfo.cs
+C:\Users\paulo.moraes\source\repos\cancelaareceb\cancelaareceb\obj\x64\Release\netcoreapp3.1\cancelaareceb.csproj.CoreCompileInputs.cache
+C:\Users\paulo.moraes\source\repos\cancelaareceb\cancelaareceb\obj\x64\Release\netcoreapp3.1\cancelaareceb.csproj.CopyComplete
+C:\Users\paulo.moraes\source\repos\cancelaareceb\cancelaareceb\obj\x64\Release\netcoreapp3.1\cancelaareceb.dll
+C:\Users\paulo.moraes\source\repos\cancelaareceb\cancelaareceb\obj\x64\Release\netcoreapp3.1\cancelaareceb.pdb
+C:\Users\paulo.moraes\source\repos\cancelaareceb\cancelaareceb\obj\x64\Release\netcoreapp3.1\cancelaareceb.genruntimeconfig.cache

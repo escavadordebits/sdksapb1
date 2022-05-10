@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zdVCvhK+g/wBezYIPmQR1iu9PVX6wwb3ZMT849cPluGPSBxHkpeAcgvTvYVZ7bcVFhgQ9s/rjU62VPu1TfnG5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\paulo.moraes\\source\\repos\\cancelaareceb\\cancelaareceb\\cancelaareceb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paulo.moraes\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

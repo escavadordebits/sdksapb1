@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cancelaareceb", "cancelaareceb\cancelaareceb.csproj", "{B5ECA251-DC0B-42CD-92EB-5DC4E181FD59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5ECA251-DC0B-42CD-92EB-5DC4E181FD59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5ECA251-DC0B-42CD-92EB-5DC4E181FD59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5ECA251-DC0B-42CD-92EB-5DC4E181FD59}.Debug|x64.ActiveCfg = Debug|x64
+		{B5ECA251-DC0B-42CD-92EB-5DC4E181FD59}.Debug|x64.Build.0 = Debug|x64
+		{B5ECA251-DC0B-42CD-92EB-5DC4E181FD59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5ECA251-DC0B-42CD-92EB-5DC4E181FD59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5ECA251-DC0B-42CD-92EB-5DC4E181FD59}.Release|x64.ActiveCfg = Release|x64
+		{B5ECA251-DC0B-42CD-92EB-5DC4E181FD59}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEA2AE00-F30C-4005-A6AE-0D0E5BD517B5}
+	EndGlobalSection
+EndGlobal
